@@ -12,7 +12,6 @@ Este repositório contém a entrega da atividade prática avaliativa referente a
 
 ## 📁 Estrutura da Pasta do Projeto
 A pasta `Miniprojeto_Amilcar_T3/` está organizada da seguinte forma:
-* `analise_varejo.py`: Script Python executável de ponta a ponta que faz a carga, limpeza, cálculo de estatísticas e gera os agrupamentos e relatórios no console.
 * `analise_varejo.ipynb`: Jupyter Notebook contendo toda a análise, explicações passo a passo e gráficos para visualização de dados.
 * `README_Amilcar_T3.md`: Este arquivo com as instruções de execução e reflexão teórica.
 
